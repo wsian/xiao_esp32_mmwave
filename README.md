@@ -1,1 +1,1 @@
-esphome mmwave presence using seeed studio esp32c6 + xiao mmwave
+esphome mmwave presence using Seeed Studio XIAO ESP32C6 + 24GHz mmWave Sensor for XIAO - Human Static Presence

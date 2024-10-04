@@ -2,6 +2,14 @@ esphome:
   name: esp32-ld2410
   friendly_name: esp32c6-presense
 
+#esp32:
+  #board: esp32-c6-devkitc-1
+  #variant: esp32c6
+  #framework:
+    #type: esp-idf
+    #version: 5.1.0
+    #platform_version: https://github.com/stintel/platform-espressif32#esp32-c6-test  
+
 esp32:
   board: esp32-c6-devkitc-1
   flash_size: 4MB
